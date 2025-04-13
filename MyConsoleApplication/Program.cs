@@ -31,7 +31,7 @@ namespace MyConsoleApplication
                 }
                 else if (c == 3)
                 {
-                    result = obj.Mul(a, b);
+                    result =  obj.Add(a, b);
                     break;
                 }
                 else
